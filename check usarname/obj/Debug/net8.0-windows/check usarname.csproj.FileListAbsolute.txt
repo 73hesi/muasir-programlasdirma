@@ -1,0 +1,16 @@
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\check usarname\bin\Debug\net8.0-windows\check usarname.exe
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\check usarname\bin\Debug\net8.0-windows\check usarname.deps.json
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\check usarname\bin\Debug\net8.0-windows\check usarname.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\check usarname\bin\Debug\net8.0-windows\check usarname.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\check usarname\bin\Debug\net8.0-windows\check usarname.pdb
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\check usarname\obj\Debug\net8.0-windows\check_usarname.Form1.resources
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\check usarname\obj\Debug\net8.0-windows\check usarname.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\check usarname\obj\Debug\net8.0-windows\check usarname.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\check usarname\obj\Debug\net8.0-windows\check usarname.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\check usarname\obj\Debug\net8.0-windows\check usarname.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\check usarname\obj\Debug\net8.0-windows\check usarname.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\check usarname\obj\Debug\net8.0-windows\check usarname.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\check usarname\obj\Debug\net8.0-windows\refint\check usarname.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\check usarname\obj\Debug\net8.0-windows\check usarname.pdb
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\check usarname\obj\Debug\net8.0-windows\check usarname.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\check usarname\obj\Debug\net8.0-windows\ref\check usarname.dll
