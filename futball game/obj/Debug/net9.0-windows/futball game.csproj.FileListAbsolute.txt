@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\futball game\bin\Debug\net9.0-windows\futball game.exe
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\futball game\bin\Debug\net9.0-windows\futball game.deps.json
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\futball game\bin\Debug\net9.0-windows\futball game.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\futball game\bin\Debug\net9.0-windows\futball game.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\futball game\bin\Debug\net9.0-windows\futball game.pdb
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\futball game\obj\Debug\net9.0-windows\futball_game.Form1.resources
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\futball game\obj\Debug\net9.0-windows\futball_game.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\futball game\obj\Debug\net9.0-windows\futball game.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\futball game\obj\Debug\net9.0-windows\futball game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\futball game\obj\Debug\net9.0-windows\futball game.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\futball game\obj\Debug\net9.0-windows\futball game.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\futball game\obj\Debug\net9.0-windows\futball game.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\futball game\obj\Debug\net9.0-windows\futball game.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\futball game\obj\Debug\net9.0-windows\refint\futball game.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\futball game\obj\Debug\net9.0-windows\futball game.pdb
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\futball game\obj\Debug\net9.0-windows\futball game.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\futball game\obj\Debug\net9.0-windows\ref\futball game.dll
